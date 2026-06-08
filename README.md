@@ -391,6 +391,7 @@ logEach( '%f', x4 );
 
 -   <span class="package-name">[`@stdlib/random-base/t`][@stdlib/random/base/t]</span><span class="delimiter">: </span><span class="description">Student's t-distributed pseudorandom numbers.</span>
 -   <span class="package-name">[`@stdlib/random-strided/t`][@stdlib/random/strided/t]</span><span class="delimiter">: </span><span class="description">fill a strided array with pseudorandom numbers drawn from a Student's t distribution.</span>
+-   <span class="package-name">[`@stdlib/random-t`][@stdlib/random/t]</span><span class="delimiter">: </span><span class="description">generate pseudorandom numbers drawn from a Student's t-distribution.</span>
 
 </section>
 
@@ -479,6 +480,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 <!-- <related-links> -->
 
 [@stdlib/random/strided/t]: https://github.com/stdlib-js/random-strided-t
+
+[@stdlib/random/t]: https://github.com/stdlib-js/random-t
 
 <!-- </related-links> -->
 
